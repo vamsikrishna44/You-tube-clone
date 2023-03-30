@@ -59,3 +59,16 @@
     color: gray;
 
 }
+
+/*  Media Query: Tablet or Smaller */
+@media screen and (max-width: 1000px)
+{
+   .header__icon{
+    padding-left: 5px;
+  } 
+  .header__input {
+    width: auto;
+    padding-right: 10px;
+  }
+  
+}

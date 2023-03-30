@@ -7,8 +7,8 @@
 
 .videoRow > img {
     object-fit: contain;
-    width: 246px;
-    height: 138px;
+    width: 250px;
+    height: 140px;
 }
 .videoRow__text {
     margin-left: 14px;
